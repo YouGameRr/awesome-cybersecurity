@@ -78,5 +78,12 @@ awesome-web-security ](https://github.com/qazbnm456/awesome-web-security) <br />
 awesome-infosec ](https://github.com/onlurking/awesome-infosec) <br />
 38. [ 0xInfection /
 Awesome-WAF ](https://github.com/0xInfection/Awesome-WAF) <br />
-39. []() <br />
-40. []() <br />
+39. [ jakejarvis /
+awesome-shodan-queries ](https://github.com/jakejarvis/awesome-shodan-queries) <br />
+40. [ Lissy93 /
+personal-security-checklist ](https://github.com/Lissy93/personal-security-checklist) <br />
+41. [ xxh /
+xxh ](https://github.com/xxh/xxh) <br />
+42. [ 0x4D31 /
+awesome-threat-detection ](https://github.com/0x4D31/awesome-threat-detection) <br />
+
