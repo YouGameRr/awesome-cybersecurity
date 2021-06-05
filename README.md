@@ -1,8 +1,12 @@
-[# **awesome-cybersecurity**](https://github.com/YouGameRr/awesome-cybersecurity/edit/main/README.md)
+> A curated list list of sources for Cyber Security
+> 
+# **Awesome-CyberSecurity** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-It Contains list of all the awesome topics related to Cyber Security at one place.<br />
+It Contains list of all the awesome topics related to **Cyber Security** at one place.<br />
 <br />
-Thanks to all contributors, you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.<br />
+Thanks to all **contributors**, you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.<br />
+<br />
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 <br />
 1.  [ sindresorhus /
 awesome ](https://github.com/sindresorhus/awesome#readme) <br />
