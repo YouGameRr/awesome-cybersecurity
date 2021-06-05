@@ -76,6 +76,7 @@ awesome-ctf ](https://github.com/apsdehal/awesome-ctf) <br />
 awesome-web-security ](https://github.com/qazbnm456/awesome-web-security) <br />
 37. [ onlurking /
 awesome-infosec ](https://github.com/onlurking/awesome-infosec) <br />
-38. []() <br />
+38. [ 0xInfection /
+Awesome-WAF ](https://github.com/0xInfection/Awesome-WAF) <br />
 39. []() <br />
 40. []() <br />
