@@ -1,5 +1,5 @@
-> A curated list list of sources for Cyber Security
-> 
+> A curated list of sources for Cyber Security.
+
 # **Awesome-CyberSecurity** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 It Contains list of all the awesome topics related to **Cyber Security** at one place.<br />
