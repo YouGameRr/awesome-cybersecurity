@@ -22,7 +22,7 @@ awesome-webpack ](https://github.com/webpack-contrib/awesome-webpack) <br />
 7.  [ hslatman /
 awesome-threat-intelligence ](https://github.com/hslatman/awesome-threat-intelligence) <br />
 8.  [ imfunniee /
-gitfolio ](https://github.com/imfunniee/gitfolio) <br />
+gitfolio ](https://github.com/imfunniee/gitfolio) (To create personal portfolio using GitHub to showcase your Projects and Experience.) <br />
 9.  [ ashishb /
 android-security-awesome ](https://github.com/ashishb/android-security-awesome) <br />
 10. [ apsdehal /
@@ -30,7 +30,7 @@ awesome-ctf ](https://github.com/apsdehal/awesome-ctf) <br />
 11. [ qazbnm456 /
 awesome-web-security ](https://github.com/qazbnm456/awesome-web-security) <br />
 12. [ abhisheknaiidu /
-awesome-github-profile-readme ](https://github.com/abhisheknaiidu/awesome-github-profile-readme) <br />
+awesome-github-profile-readme ](https://github.com/abhisheknaiidu/awesome-github-profile-readme) (Few Github portfolios to get an idea.) <br />
 13. [ carpedm20 /
 awesome-hacking ](https://github.com/carpedm20/awesome-hacking) <br />
 14. [ blaCCkHatHacEEkr /
